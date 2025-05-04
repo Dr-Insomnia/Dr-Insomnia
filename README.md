@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Junianto    
 - 👀 I’m interested in Web Developer  
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on {none}  
-- 📫 How to reach me {none}
+- 🌱 I’m currently learning Vue.js
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
 
